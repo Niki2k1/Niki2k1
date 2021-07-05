@@ -19,7 +19,7 @@ function Write-BranchName () {
 
 function prompt {
     $path = "$($executionContext.SessionState.Path.CurrentLocation)"
-    $userPrompt = " $('$' * ($nestedPromptLevel + 1)) "
+    $userPrompt = " $('→' * ($nestedPromptLevel + 1)) "
 
     Write-Host "$($env:UserName)" -ForegroundColor "cyan" -NoNewline
     Write-Host "@" -NoNewLine
