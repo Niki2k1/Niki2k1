@@ -7,4 +7,5 @@ Currently working at <a href="https://kabema.com" target="blank"><img align="cen
 
 ## More about me:
 [https://niki2k1.dev](https://niki2k1.dev)
+
 <a href="https://niki2k1.dev" target="blank"><img align="center" width="630" src="https://next.niki2k1.dev/uploads/social-card-niki2k1_ZNRFTOYHK1.jpg" alt="Banner mit Niklas Lausch"/></a>
