@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Niklas
-23 Years old • Living in Berlin • Full Stack Web Developer
+24 Years old • Living in Berlin • Full Stack Web Developer
 
 Currently working at <a href="https://kabema.com" target="blank"><img align="center" src="https://github.com/user-attachments/assets/a4c0e0e6-6abd-463a-aaf1-6396616ea0bd" alt="KabemaGruppe Logo" height="15"/></a>on a car repair shop management app.
 
